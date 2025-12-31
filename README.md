@@ -1,4 +1,3 @@
-# linux-portfolio
 # Linux Portfolio
 
 ## About This Repository
