@@ -1,4 +1,3 @@
-# linux-portfolio
 # Linux Portfolio
 
 ## About This Repository
@@ -60,3 +59,6 @@ git add .
 git commit -m "update"
 git push origin main
 
+Author
+Antaryami Pathak
+Linux Enthusiast
